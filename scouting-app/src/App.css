@@ -68,3 +68,23 @@
 .nav-list a:hover {
   text-decoration: underline;
 }
+
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  appearance: textfield;
+} */
+
+.input {
+    width: 30% !important;
+    height: 30px !important;
+    border-radius: 15px;
+    background-color: white !important;
+    font-size: 20px !important;
+    font-weight: bold;
+    text-align: center !important;
+} 
